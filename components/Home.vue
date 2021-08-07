@@ -130,7 +130,7 @@
 
       <div class="mapa">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.1719461481152!2d-77.03045898410068!3d-12.03168074489853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105cf48d0f342e9%3A0x876cd85d8c5c4ebd!2sUrbanizacion%20Leoncio%20Prado%2C%20Rimac!5e0!3m2!1sen!2spe!4v1628310197649!5m2!1sen!2spe"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.54146143977!2d-77.03126147076583!3d-12.03210099946731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105cf4855b5210f%3A0x189f8268094f1751!2sLeoncio%20Prado%2C%20Lima%20District%2015093!5e0!3m2!1sen!2spe!4v1628357012036!5m2!1sen!2spe"
           class="w-full"
           height="300"
           style="border: 0"
