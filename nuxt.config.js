@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'n1',
+    title: 'Jama y barra | Hoy Duos y Trios marinos | 992700069',
     htmlAttrs: {
       lang: 'en'
     },
